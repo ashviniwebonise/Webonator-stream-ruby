@@ -1,0 +1,4 @@
+#!/usr/bin/ruby
+require 'gem_shop'
+fileaccessobject=FileAccess.new
+fileaccessobject.usertype
